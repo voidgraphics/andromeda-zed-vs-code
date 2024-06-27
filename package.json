@@ -1,0 +1,21 @@
+{
+  "name": "andromeda-zed",
+  "displayName": "andromeda-zed",
+  "description": "The Andromeda theme variant found on the Zed editor",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Andromeda Zed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Andromeda-Zed-color-theme.json"
+      }
+    ]
+  }
+}
