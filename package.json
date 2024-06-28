@@ -3,6 +3,11 @@
   "displayName": "andromeda-zed",
   "description": "The Andromeda theme variant found on the Zed editor",
   "version": "0.0.1",
+  "publisher": "AdrienLeloup",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voidgraphics/andromeda-zed-vs-code.git"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
